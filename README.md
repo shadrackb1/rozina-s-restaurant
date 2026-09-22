@@ -1,6 +1,6 @@
-# Rozina Restaurant
+# Rozina's Restaurant
 
-Menu and online ordering for Rozina Restaurant, Nakuru.
+Menu and online ordering for Rozina's Restaurant, Nakuru.
 
 **Status:** shipped demo
 
